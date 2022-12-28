@@ -1,9 +1,12 @@
+<p align='center'>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kayo Renato
 ===================================================================================================================================
 
+  
 Lifelong Learning
 -----------------
-
+</p>
+  
 I currently work as a Project Manager and Product Owner at software house COMEIA. Graduated in Information Systems and Civil Engineering, postgraduate in Data Science and Analytics and Project Management, and Master in Production Engineering.
 
 * 🌍  I'm based in Brazil
