@@ -38,11 +38,10 @@ I currently work as a Project Manager and Product Owner at software house COMEIA
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Kayo Renato#3403" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/KayoRenato" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kayo-renato/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://discord.com/users/Kayo Renato#3403" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/KayoRenato" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kayo-renato/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+### GitHub Stats
 
-<b>My GitHub Stats</b>
 <p align="center"> 
   <a href="http://www.github.com/KayoRenato"><img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api?username=KayoRenato&show_icons=true&hide=stars,contribs&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="KayoRenato's GitHub stats" /></a>
 </p>
