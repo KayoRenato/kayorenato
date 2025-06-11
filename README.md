@@ -22,7 +22,7 @@ Lifelong learner passionate about turning data into value.
 - SQL  
 - Docker  
 
-### Machine Learning & NLP
+### Machine & Deep Learning
 - Supervised Learning (regression & classification)  
 - Unsupervised Learning (clustering & dimensionality reduction)  
 - Ensemble Methods (Random Forest, XGBoost)  
