@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "receipt-analyzer"
+version = "0.1.0"
+description = "Scrape, parse and normalize Brazilian NFC-e receipts for price comparison"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.40.0",
+    "beautifulsoup4>=4.12",
+    "playwright>=1.44",
+    "lxml>=5.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-cov>=5.0",
+]
+
+[project.scripts]
+receipt-analyzer = "receipt_analyzer.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["receipt_analyzer*"]
+
+[tool.pytest.ini_options]
+testpaths = ["receipt_analyzer/tests"]
+addopts = "-v --tb=short"
