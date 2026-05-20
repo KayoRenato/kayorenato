@@ -12,6 +12,7 @@ dependencies = [
     "beautifulsoup4>=4.12",
     "playwright>=1.44",
     "lxml>=5.0",
+    "sqlalchemy>=2.0",
 ]
 
 [project.optional-dependencies]
